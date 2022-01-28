@@ -76,6 +76,8 @@
   - [x] Inheritance
 
   - [x] `virtual` functions
+
+  - [x] [`virtual` inheritance](https://www.cprogramming.com/tutorial/virtual_inheritance.html)
  
   - [x] Abstract Classes (pure virtual functions)
 
