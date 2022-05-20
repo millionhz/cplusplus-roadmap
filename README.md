@@ -8,98 +8,100 @@
 
 ## Topics
 
-- [x] [C++ Basics](https://github.com/millionhz/cplusplus-notes)
+- [C++ Basics](https://github.com/millionhz/cplusplus-notes)
 
-- [x] [DataTypes](https://docs.oracle.com/cd/E19253-01/817-6223/chp-typeopexpr-2/index.html)
+- [DataTypes](https://docs.oracle.com/cd/E19253-01/817-6223/chp-typeopexpr-2/index.html)
 
-- [x] [Operator](https://github.com/millionhz/cplusplus-notes#operators)
+- [Operator](https://github.com/millionhz/cplusplus-notes#operators)
 
-  - [x] MOD (`&`) operator
+  - MOD (`&`) operator
 
-- [x] [Keywords](https://en.cppreference.com/w/cpp/keyword)
+- [Keywords](https://en.cppreference.com/w/cpp/keyword)
 
-- [x] Control Flow
+- Control Flow
 
-  - [x] `if` and `else`
+  - `if` and `else`
 
-  - [x] `switch`
+  - `switch`
 
-  - [x] Short Circuiting
+  - Short Circuiting
 
-- [x] Arrays
+- Arrays
 
-  - [x] Pointer Arithmetic
+  - Pointer Arithmetic
 
-- [ ] Enums
+- Enums
 
-- [x] Loops
+- Loops
 
-- [x] Pointers
+- Pointers
 
-- [x] References
+- References
 
-- [x] `char*` C-String
+- `char*` C-String
 
-- [ ] `static`
+- `static`
 
-- [x] Type Casting
+- Type Casting
 
-- [x] Functions
+- Functional Programming
 
-  - [x] Declarations and Definitions
-  - [x] Call by value, reference and pointer
+  - Declarations and Definitions
 
-  - [x] Variable Scope
+  - Call by value, reference and pointer
 
-  - [x] Recursion
-  - [x] Function Pointers
+  - Variable Scope
 
-  - [x] Lambda Functions
+  - Recursion
 
-  - [x] `inline` Functions
+  - Function Pointers
 
-- [x] `struct`
+  - Lambda Functions
 
-- [ ] Object Oriented Programming
+  - `inline` Functions
 
-  - [x] Declaring and Defining Classes
+- `struct`
 
-  - [x] Access Modifiers
+- Object Oriented Programming
 
-  - [x] Object Pointers
+  - Declaring and Defining Classes
 
-    - [x] `->` operator
+  - Access Modifiers
 
-    - [x] `this` keyword
+  - Object Pointers
 
-  - [x] Inheritance
+    - `->` operator
 
-  - [x] `virtual` functions
+    - `this` keyword
 
-  - [x] [`virtual` inheritance](https://www.cprogramming.com/tutorial/virtual_inheritance.html)
+  - Inheritance
 
-  - [x] Abstract Classes (pure virtual functions)
+  - `virtual` functions
 
-  - [ ] [Aggregate Initialization](https://docs.microsoft.com/en-us/cpp/cpp/initializing-classes-and-structs-without-constructors-cpp?view=msvc-170)
+  - [`virtual` inheritance](https://www.cprogramming.com/tutorial/virtual_inheritance.html)
 
-- [x] [`operator` overloading](https://docs.microsoft.com/en-us/cpp/cpp/operator-overloading?view=msvc-170)
+  - Abstract Classes (pure virtual functions)
 
-- [x] Exception Handling
+  - [Aggregate Initialization](https://docs.microsoft.com/en-us/cpp/cpp/initializing-classes-and-structs-without-constructors-cpp?view=msvc-170)
 
-  - [x] `try`, `catch` and `throw`
+- [`operator` overloading](https://docs.microsoft.com/en-us/cpp/cpp/operator-overloading?view=msvc-170)
 
-  - [x] `Exception` Class
+- Exception Handling
 
-- [x] [Standard Template Library](https://en.cppreference.com/w/cpp/container)
+  - `try`, `catch` and `throw`
+
+  - `Exception` Class
+
+- [Standard Template Library](https://en.cppreference.com/w/cpp/container)
 
 ## Other Concepts
 
-- [x] Templates
+- Templates
 
-- [ ] Initializer lists
+- Initializer lists
 
-- [ ] Preprocessor Directives
+- Preprocessor Directives
 
 ## Other Stuff
 
-- [ ] [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
