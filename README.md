@@ -4,6 +4,7 @@
 
 - [cppreference](https://en.cppreference.com/w/)
 
+- [C++ Programming Course](https://www.youtube.com/watch?v=8jLOx1hD3_o) (freeCodeCamp)
 
 ## Topics
 
@@ -27,7 +28,7 @@
 
 - [x] Arrays
 
-  - [x] Pointer Arithmetic 
+  - [x] Pointer Arithmetic
 
 - [ ] Enums
 
@@ -44,15 +45,13 @@
 - [x] Type Casting
 
 - [x] Functions
-  
+
   - [x] Declarations and Definitions
-    
   - [x] Call by value, reference and pointer
 
   - [x] Variable Scope
-  
+
   - [x] Recursion
-    
   - [x] Function Pointers
 
   - [x] Lambda Functions
@@ -62,14 +61,14 @@
 - [x] `struct`
 
 - [ ] Object Oriented Programming
-  
+
   - [x] Declaring and Defining Classes
 
   - [x] Access Modifiers
 
   - [x] Object Pointers
 
-    - [x] `->` operator 
+    - [x] `->` operator
 
     - [x] `this` keyword
 
@@ -78,7 +77,7 @@
   - [x] `virtual` functions
 
   - [x] [`virtual` inheritance](https://www.cprogramming.com/tutorial/virtual_inheritance.html)
- 
+
   - [x] Abstract Classes (pure virtual functions)
 
   - [ ] [Aggregate Initialization](https://docs.microsoft.com/en-us/cpp/cpp/initializing-classes-and-structs-without-constructors-cpp?view=msvc-170)
