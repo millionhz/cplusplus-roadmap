@@ -12,7 +12,7 @@
 
 - [DataTypes](https://docs.oracle.com/cd/E19253-01/817-6223/chp-typeopexpr-2/index.html)
 
-- [Operator](https://github.com/millionhz/cplusplus-notes#operators)
+- [Operators](https://github.com/millionhz/cplusplus-notes#operators)
 
   - MOD (`&`) operator
 
