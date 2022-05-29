@@ -4,6 +4,8 @@
 
 - [cppreference](https://en.cppreference.com/w/)
 
+- [Microsoft Docs](https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170)
+
 - [C++ Notes](https://github.com/millionhz/cplusplus-notes)
 
 - [C++ Programming Course](https://www.youtube.com/watch?v=8jLOx1hD3_o) (freeCodeCamp)
