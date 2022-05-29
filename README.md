@@ -52,6 +52,8 @@
 
   - Declarations and Definitions
 
+  - [Variadic arguments](https://en.cppreference.com/w/cpp/language/variadic_arguments)
+
   - Call by value, reference and pointer
 
   - Variable Scope
