@@ -14,7 +14,7 @@
 
 - [C++ Basics](https://github.com/millionhz/cplusplus-notes)
 
-- [DataTypes](https://docs.oracle.com/cd/E19253-01/817-6223/chp-typeopexpr-2/index.html)
+- [DataTypes](https://en.cppreference.com/w/cpp/language/types)
 
 - [Operators](https://github.com/millionhz/cplusplus-notes#operators)
 
