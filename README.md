@@ -6,7 +6,7 @@
 
 - [Microsoft Docs](https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170)
 
-- [C++ Notes](https://github.com/millionhz/cplusplus-notes)
+- [C++ Notes - millionhz](https://github.com/millionhz/cplusplus-notes)
 
 - [C++ Programming Course](https://www.youtube.com/watch?v=8jLOx1hD3_o) (freeCodeCamp)
 
@@ -99,6 +99,8 @@
   - `Exception` Class
 
 - [Standard Template Library](https://en.cppreference.com/w/cpp/container)
+
+- [Header Files](https://www.youtube.com/watch?v=9RJTQmK0YPI)
 
 ## Other Concepts
 
