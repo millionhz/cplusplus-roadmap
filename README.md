@@ -8,8 +8,6 @@
 
 - [C++ Notes - millionhz](https://github.com/millionhz/cplusplus-notes)
 
-- [C++ Programming Course](https://www.youtube.com/watch?v=8jLOx1hD3_o) (freeCodeCamp)
-
 ## Topics
 
 - [C++ Basics](https://github.com/millionhz/cplusplus-notes)
